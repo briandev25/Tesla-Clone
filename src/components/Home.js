@@ -61,5 +61,5 @@ function Home() {
 export default Home;
 
 const Container = styled.div`
-
+  z-index:1;
 `
